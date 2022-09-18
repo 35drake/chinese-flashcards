@@ -1,7 +1,24 @@
-口,ko1,mouth
-刀,da1o,knife
 人,re2n,person
+儿,e2r,legs
+木,mu4,tree
+冰,bi1ng,ice
+口,ko3u,mouth
+刀,da1o,knife
 大,da4,big
 土,tu3,earth
 又,yo4u,right hand
 犬,qua3n,dog
+冖,mi4,cover
+勹,ba1o,wrap
+匕,bi3,ladle
+卜,bu3,divination
+士,shi4,scholar
+夂,zhi1,go
+夕,xi1,night
+女,nv3,woman
+子,zi3,child
+寸,cu4n,inch
+小,xia3o,small
+山,sha1n,mountain
+巛,chua1n,river
+月,yue4,moon

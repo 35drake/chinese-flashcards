@@ -9,6 +9,13 @@ def show_all(lines):
 	for row in range(len(lines)):
 		print(row,FC[row][0],FC[row][1],FC[row][2])
 
+# This module allows Windows to pause for a key press that doesn't have to be ENTER
+import msvcrt as m
+def pause():
+	m.getch()
+	print()
+	
+
 # This reference list (48) interprets pinyin tones
 tones = ['ā',"a1",'á',"a2",'ǎ',"a3",'à',"a4",
 'ē',"e1",'é',"e2",'ě',"e3",'è',"e4",
@@ -42,11 +49,11 @@ for row in range(len(lines)):
 		FC[row][1]=FC[row][1].replace(tones[2*count+1],tones[2*count])
 
 # Give user menu
-choice = eval(input("\n\nPick which mode:\n\n1:Show character first\n2:Show pinyin first\n3:Show either first\n4:Display all cards\n\nChoice: "))
+choice = eval(input("\n\nPick which mode:\n\n1:Show character first\n2:Show pinyin first\n3:Show either first\n4:Display meaning first\n5:Display all cards\n\nChoice: "))
 print('\n')
 
 # Perform program depending on choice
-if choice < 4:
+if choice < 5:
 	
 	# Create a randomized list of indices for the flashcards
 	numbers_list=[]
@@ -58,32 +65,40 @@ if choice < 4:
 	if choice == 1:
 		for count in range(len(lines)):
 			print(FC[numbers_list[count]][0])
-			input()
+			pause()
 			print(FC[numbers_list[count]][1])
 			print(FC[numbers_list[count]][2])	
-			input()
+			pause()
 
 	# Show the pinyin first
 	if choice == 2:
 		for count in range(len(lines)):
 			print(FC[numbers_list[count]][1])
-			input()
-			print(FC[numbers_list[count]][1])
+			pause()
+			print(FC[numbers_list[count]][0])
 			print(FC[numbers_list[count]][2])	
-			input()
+			pause()
 
 	# Show either the character or pinyin first (chosen randomly each time)
 	if choice == 3:
 		for count in range(len(lines)):
 			category_shown = random.choice([0,1])
 			print(FC[numbers_list[count]][category_shown])
-			input()
+			pause()
 			print(FC[numbers_list[count]][not(category_shown)])
 			print(FC[numbers_list[count]][2])	
-			input()	
+			pause()	
+
+	if choice == 4:
+		for count in range(len(lines)):
+			print(FC[numbers_list[count]][2])
+			pause()
+			print(FC[numbers_list[count]][0])
+			print(FC[numbers_list[count]][1])	
+			pause()
 
 # Show all cards at once
-if choice == 4:
+if choice == 5:
 	show_all(lines)
 
 # Pause program until user presses a key (and print input for debug, if any)
