@@ -27,7 +27,7 @@
 入,ru4,enter
 幺,ya1o,thread*
 艹,ca3o,grass*
-弓,go1ng,work*
+弓,go1ng,bow*
 戈,ge1,spear*
 手,sho3u,hand*
 工,go1ng,work*

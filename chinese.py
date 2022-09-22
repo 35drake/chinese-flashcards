@@ -39,6 +39,10 @@ for line in lines:
 	FC = FC + [line.split(",")]
 	# The "lines" list shouldn't be used anymore, use "FC"
 
+# Add a '\n' character to the end of the last flashcard (this ensures its asterisk won't be displayed if it has one)
+if not(FC[-1][2][-1] == '\n'):
+	FC[-1][2] = FC[-1][2] + '\n'
+
 # Fix the tones of each flashcard and mark them as special if they have '*'
 specials=[]
 for row in range(len(FC)):
@@ -53,7 +57,7 @@ for row in range(len(FC)):
 			specials = specials+[row]
 
 # Give user menu
-choice = input("\n\nPick which mode:\n\n1:Show character first\n2:Show pinyin first\n3:Show either first\n4:Display meaning first\n5:Display all cards\n6:Quit\nTYPE 's' BEFORE THE NUMBER TO ONLY USE STARRED FLASHCARDS.\n\nChoice: ")
+choice = input("\n\nPick which mode:\n\n1:Show character first\n2:Show pinyin first\n3:Show character OR pinyin first\n4:Display meaning first\n5:Display all cards\n6:Quit\nTYPE 's' BEFORE THE NUMBER TO ONLY USE STARRED FLASHCARDS.\n\nChoice: ")
 print('\n')
 
 # Delete all non-special flashcards if the user activates special (starred) only mode.
