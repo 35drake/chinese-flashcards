@@ -1,49 +1,57 @@
-人,re2n,person
+丨,shu4,line
+丶,dia3n,dot
+丿,pie3,slash
+乙,yi3,second
+亠,to2u,lid
+人/亻,re2n,person
 儿,e2r,legs
-木,mu4,tree
-冰,bi1ng,ice
-口,ko3u,mouth
+入,ru4,enter
+八,ba1,eight
+冂,jio3ng,down box
+冖,mi4,cover
+冫/冰,bi1ng,ice
+几,ji1/ji3,table
+凵,ka3n,up box
 刀,da1o,knife
-大,da4,big
-土,tu3,earth
-又,yo4u,right hand
-犬/犭,qua3n,dog
-冖,mi4,cover*
+力,li4,power
 勹,ba1o,wrap
-匕,bi3,ladle*
+匕,bi3,ladle
+匚,fa1ng,right box
 卜,bu3,divination
+卩,jie2,seal*
+厂,ha3n,cliff
+厶,si1,private
+又,yo3u,again
+口,ko3u,mouth
+囗,we2i,enclosure
+土,tu3,earth
 士,shi4,scholar
-夂,zhi1,go*
+夂,zhi1,go
 夕,xi1,night
+大,da4,big
 女,nv3,woman
 子,zi3,child
+宀,mia2n,roof
 寸,cu4n,inch
 小,xia3o,small
+尢,yo2u,lame
+尸,shi1,corpse
+屮,che4,sprout
 山,sha1n,mountain
 巛,chua1n,river
-月,yue4,moon
-乙,yi3,second
-亠,to2u,lid*
-入,ru4,enter
+工 and 弓,go1ng,work and bow
+己,ji3,ones self*
+巾,ji1n,towel*
+干,ga1n,dry
 幺,ya1o,thread
-艹,ca3o,grass
+广,gua3ng,shelter/house on hill
+廴,yi3n,stride*
+廾,go3ng,hands joined*
+弋,yi4,shoot with bow*
+弓,go1ng,bow
+彐,ji4,snout*
+彡,sha1n,hair*
+彳,chi4,step*
+心,xi1n,heart
 戈,ge1,spear
-手,sho3u,hand*
-工/弓,go1ng,work/bow
-足,zu2,foot*
-米,mi3,rice*
-疒,ne4,sickness*
-王,yu4,jade/king*
-日,ri4,sun*
-心/忄/⺗,xi1n,heart*
-氵/水,shui3,water
-火/灬,huo3,fire*
-纟,mi4,silk*
-讠/言,ya2n,speech*
-辶,chuo4,walk*
-钅,ji1n,gold/metal*
-贝,be4i,shell*
-力,li4,force*
-禾,he,grain*
-⺮,zhu2,bamboo*
-虫,cho2ng,insect*
+户,hu4,door*

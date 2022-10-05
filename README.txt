@@ -12,10 +12,8 @@ Goals for future features:
 
 
 
-I like to use this website to find radicals:
+I'm now using this site for radicals: https://www.archchinese.com/arch_chinese_radicals.html
+
+I also like to use this website to find radicals:
 https://www.hackingchinese.com/kickstart-your-character-learning-with-the-100-most-common-radicals/
 https://hackingchinese.com/media/100-most-common-radicals-win.txt
-
-
-Maybe try this one?
-https://www.archchinese.com/arch_chinese_radicals.html
