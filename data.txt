@@ -1,24 +1,24 @@
-丨,shu4,line
-丶,dia3n,dot
-丿,pie3,slash
-乙,yi3,second
+丨,shu4,line*
+丶,dia3n,dot*
+丿/乀/乁,pie3,slash*
+乙/乛/乚,yi3,second*
 亠,to2u,lid
 人/亻,re2n,person
 儿,e2r,legs
 入,ru4,enter
-八,ba1,eight
+八/丷,ba1,eight
 冂,jio3ng,down box
-冖,mi4,cover
+冖,mi4,cover*
 冫/冰,bi1ng,ice
 几,ji1/ji3,table
 凵,ka3n,up box
-刀,da1o,knife
+刀/刂,da1o,knife
 力,li4,power
 勹,ba1o,wrap
 匕,bi3,ladle
 匚,fa1ng,right box
 卜,bu3,divination
-卩,jie2,seal*
+卩,jie2,seal
 厂,ha3n,cliff
 厶,si1,private
 又,yo3u,again
@@ -34,24 +34,65 @@
 宀,mia2n,roof
 寸,cu4n,inch
 小,xia3o,small
-尢,yo2u,lame
+尢/尣,yo2u,lame
 尸,shi1,corpse
 屮,che4,sprout
 山,sha1n,mountain
-巛,chua1n,river
+川/巛/巜,chua1n,river
 工 and 弓,go1ng,work and bow
-己,ji3,ones self*
-巾,ji1n,towel*
+己,ji3,ones self
+巾,ji1n,towel
 干,ga1n,dry
 幺,ya1o,thread
 广,gua3ng,shelter/house on hill
 廴,yi3n,stride*
-廾,go3ng,hands joined*
-弋,yi4,shoot with bow*
+廾,go3ng,hands joined
+弋,yi4,shoot with bow
 弓,go1ng,bow
-彐,ji4,snout*
-彡,sha1n,hair*
-彳,chi4,step*
-心,xi1n,heart
+彐/彑,ji4,snout
+彡,sha1n,hair
+彳,chi4,step
+心/忄,xi1n,heart
 戈,ge1,spear
-户,hu4,door*
+户,hu4,door
+手/扌,sho3u,hand
+支,zhi1,branch
+攴/攵,pu1,rap*
+文,we2n,script*
+斗,do3u,dipper
+斤,ji1n,axe
+方,fa1ng,square*
+无,wu2,not*
+日,ri4,sun
+曰,yue1,say*
+月,yue4,moon
+木,mu4,tree
+欠,qia4n,lack*
+止,zhi3,stop*
+歹,da3i,death*
+殳,shu1,weapon*
+母/毋,mu3,mother*
+比,bi3,compare*
+毛,ma2o,fur
+氏,shi4,clan
+气,qi4,stream*
+水/氵,shui3,water
+火/灬,huo3,fire
+爪,zha3o,claw
+父,fu4,father*
+片,pia4n,slice*
+牙,ya2,tooth*
+牛,niu2,cow*
+犭/犬,qua3n,dog
+玄,xua2n,profound*
+玉,yu4 / wa2ng,jade/king
+瓜,gua1,melon
+瓦,wa3,tile*
+甘,ga1n,sweet*
+生,she1ng,life*
+用,yo4ng,use*
+田,tia2n,field*
+疋,pi3,cloth*
+疒,bi4ng,ill*
+癶,bo1,footsteps*
+白,ba2i,white*
