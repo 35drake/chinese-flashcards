@@ -1,0 +1,20 @@
+GIT HELP:
+git init
+git add . (add nj)
+        git add test.txt (add nj nes files)
+git commit -m "lol" -a
+        USE THIS (-a). IT ADDS NJ FILES TO THE COMMIT Q WERE EVER ADDED, but is redundant if you use "git add . " I guess
+git status
+
+GITHUB HELP:
+>Now make the repo on github w a browser<
+git remote add my_origin https://github.com/35drake/chinese-flashcards.git
+        git remote -v (check)
+>Change the origin<
+git remote set-url >url<
+        git remote remove my_origin
+git push -u my_origin master >main doesnt work...<
+
+git branch (?)
+git clone >url of repo< (?)
+git checkout -b branchname (?)

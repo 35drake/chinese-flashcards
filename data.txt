@@ -1,5 +1,5 @@
 丨,shu4,line*
-丶,dia3n,dot*
+丶,dia3n,dot
 丿/乀/乁,pie3,slash*
 乙/乛/乚,yi3,second*
 亠,to2u,lid
@@ -96,3 +96,17 @@
 疒,bi4ng,ill*
 癶,bo1,footsteps*
 白,ba2i,white*
+皮,pi2,skin*
+皿,mi3n,dish*
+目,mu4,eye*
+矛,ma2o,spear*
+矢,shi3,arrow*
+石,shi2,stone*
+示/礻,shi4,spirit*
+禸,ro2u,track*
+禾,he2,grain*
+穴,xue4,cave*
+立,li4,stand*
+竹,zhu2,bamboo*
+竹,mi3,rice*
+纟,si1,silk*
